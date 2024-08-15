@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.healthCare.claim;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestSpringBoot1Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestSpringBoot1Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
